@@ -1,9 +1,8 @@
 import React from 'react'
 
-export default function Subscription() {
+export default function Pricing() {
   return (
-    <>
-    <div className="font-montserrat flex flex-col md:flex-row justify-center items-center gap-6 p-6 bg-gray-100 min-h-screen min-h-screen bg-gradient-to-r from-blue-50 to-teal-100 py-10">
+     <div className="font-montserrat flex flex-col md:flex-row justify-center items-center gap-6 p-6 bg-gray-100 min-h-screen min-h-screen bg-gradient-to-r from-blue-50 to-teal-100 py-10">
         
 
   {/* Subscription Cards */}
@@ -44,7 +43,5 @@ export default function Subscription() {
     <button className="w-full mt-6 bg-fintech text-white py-2 rounded-md hover:bg-teal-700 transition">Choose Plan</button>
   </div>
 </div>
-
-    </>
   )
 }

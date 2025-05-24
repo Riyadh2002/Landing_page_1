@@ -9,7 +9,9 @@ import Make2 from './Components/Make2'
 import Bank3 from './Components/Bank3'
 import Comments from './Components/Comments'
 import Footer from './Components/Footer'
-import Subscription from './Components/Subscription.Jsx'
+import Pricing from './Components/Pricing'
+
+
 
 function App() {
 
@@ -23,7 +25,7 @@ function App() {
       <Bank3/>
       <Comments/>
       <section id="subscription">
-  <Subscription />
+    <Pricing/>
 </section>
       <Footer/>
       </div>
