@@ -1,26 +1,94 @@
+# 🚀 Modern React Landing Page
 
-Project Live Link-> https://riyad2002.netlify.app/
+A clean, responsive, and visually appealing landing page built with **React**. Perfect for portfolios, startups, and business websites.
+
+---
+
+## 🔗 Live Demo
+
+[View Live Site](https://riyad2002.netlify.app/)
+
+---
+
+## 📸 Preview
+
+![Group 288](https://github.com/user-attachments/assets/86c3d3dd-aa1a-4d2a-bfe2-f07136bdfae6)
+
+
+---
+
+## ✨ Features
+
+- Fully responsive design for all devices
+- Modular React components for easy maintenance
+- Clean and modern UI with smooth animations
+- Includes sections: Hero, Pricing, Testimonials, Footer, and more
+- Optimized performance with Vite build tool
+
+---
+
+## 🛠️ Tech Stack
+
+- React.js
+- CSS (App.css, index.css)
+- Vite.js
+
+---
+
+## 📁 Folder Structure
+src/
+├── assets/
+├── Components/
+│ ├── Bank3.jsx
+│ ├── Comments.jsx
+│ ├── Fifty.jsx
+│ ├── Footer.jsx
+│ ├── Hero.jsx
+│ ├── Make2.jsx
+│ ├── Pricing.jsx
+│ └── Why1.jsx
+├── images/
+│ ├── 1.jpg
+│ ├── 1.png
+│ ├── 2.jpg
+│ ├── 2.png
+│ ├── 3.png
+│ ├── bank.jpg
+│ └── logo.png
+├── App.css
+├── App.jsx
+├── index.css
+└── main.jsx
 
 
 
 
-<<<<<<< HEAD
-# React + Vite
+---
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Getting Started
 
-Currently, two official plugins are available:
+To run this project locally, follow these steps:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```bash
+# Clone the repo
+git clone https://github.com/Riyadh2002/LandingPage_2.git
 
-## Expanding the ESLint configuration
+# Navigate into project folder
+cd LandingPage_2
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Landing_page_1
-Fintech responsive Landing_page
->>>>>>> 69a9118575592d4b8cb812eaf432e06d37457d33
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
+
+
+🙋‍♂️ Author
+Riyad
+
+GitHub: @Riyadh2002
+
+Live Site: https://riyad2002.netlify.app/
 
 
 
